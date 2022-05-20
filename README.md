@@ -1,1 +1,2 @@
 hi.webp
+bye.webp
